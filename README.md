@@ -1,4 +1,4 @@
-### Hey whats'up ?! 👋  
+### Hey, whats'up ?! 👋  
  
 - ⚡ Studing Eletric engeneering
 - 📊 Learning Data Science
